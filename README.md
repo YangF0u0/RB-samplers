@@ -13,6 +13,6 @@ This part of simulation shows great improvement with RB and computation is fast.
 
 ## PF v.s. RBPF
 
-I'm still stuck with this part, more precisely, the RBPF. Time-wising I just put it here and maybe I can explore it later.
+I'm still stuck with this part, more precisely, the RBPF. Time-wising I just set it aside and maybe I can explore it later after my finals are done.
 ![](./PF.png)
 ![](./RBPF.png)
