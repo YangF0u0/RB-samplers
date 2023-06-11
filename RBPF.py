@@ -73,6 +73,6 @@ x_P_out = np.asarray(x_P_out)
 for i in range(0, N):
     plt.plot(t, x_P_out[:, i], color='gray')
 plt.plot(t, x_out, color='lime', linewidth=2, label='true value')
-plt.plot(t, x_est_out, color='red', linewidth=3, label='estimate value')
+plt.plot(t, x_est_out, color='red', linewidth=2, label='estimate value')
 plt.legend()
 plt.show()
